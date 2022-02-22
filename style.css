@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(67, 68, 68);
+    color: white;
+}
+
+.tablero{
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+    height: 600px;
+    padding: 10px 10px;
+}
