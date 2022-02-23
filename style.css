@@ -1,12 +1,20 @@
-body{
-    background-color: rgb(67, 68, 68);
-    color: white;
+/** @format */
+
+body {
+  background-color: aquamarine;
+  color: black;
 }
 
-.tablero{
-    display: flex;
-    flex-wrap: wrap;
-    width: 800px;
-    height: 600px;
-    padding: 10px 10px;
+.tablero {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1000px;
+  height: 800px;
+  padding: 10px 10px;
+  margin-left: 18%;
+}
+
+.a {
+  margin-left: 5px;
+  margin-top: 5px;
 }
